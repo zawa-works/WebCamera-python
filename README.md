@@ -1,8 +1,12 @@
-### PythonでWebカメラ表示
-- Webカメラの映像を
-- *opencv*を使用
+# PythonでWebカメラ表示
 
-### Webカメラが表示されないとき
+## 内容
+- Webカメラの映像を
+
+## 使用ライブラリ
+- `opencv`を使用
+
+## Webカメラが表示されないとき
 
 ```python
 cap = cv2.VideoCapture(x)
